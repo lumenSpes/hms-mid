@@ -1,0 +1,14 @@
+[
+    {
+        "firstname": "abul",
+        "lastname": "mia",
+        "username": null,
+        "email": "jhfahdf@gmail.com",
+        "gender": "male",
+        "phone": "01712345678",
+        "desease": "fever",
+        "medecine": "peracitamol",
+        "dossage": "morning",
+        "instruction": "bhalo hoye jabe"
+    }
+]

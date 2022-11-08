@@ -1,0 +1,38 @@
+[
+    {
+       "firstname":"abul",
+       "lastname":"mia",
+       "age":30,
+       "gender":"male",
+       "desease":"fever",
+       "phone":"01712345678",
+       "email":"jhfahdf@gmail.com"
+      },
+      {
+         "firstname":"kabul",
+         "lastname":"mia",
+         "age":30,
+         "gender":"male",
+         "desease":"heart attack",
+         "phone":"01712345678",
+         "email":"jhfajfhdf@gmail.com"
+      },
+      {
+         "firstname":"kashem",
+         "lastname":"mia",
+         "age":30,
+         "gender":"male",
+         "desease":"broken bones",
+         "phone":"01712345678",
+         "email":"jhfajdsfhdf@gmail.com"
+      },
+      {
+         "firstname":"hasehem",
+         "lastname":"mia",
+         "age":30,
+         "gender":"male",
+         "desease":"asthema",
+         "phone":"01712345678",
+         "email":"jhfakjdfhdf@gmail.com"
+      }
+   ]
